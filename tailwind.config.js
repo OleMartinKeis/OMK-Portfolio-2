@@ -2,11 +2,13 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    colors: {
-      darkblue: "#0a192f",
-      white: "#FFFFFF",
+    extend: {
+      colors: {
+        darkblue: "#0a192f",
+        white: "#FFFFFF",
+        orange: "#FF9000",
+      },
     },
-    extend: {},
   },
   plugins: [],
 };

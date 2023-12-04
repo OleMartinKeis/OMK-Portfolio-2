@@ -7,6 +7,7 @@ export default {
         darkblue: "#0a192f",
         white: "#FFFFFF",
         orange: "#FF9000",
+        pink: "#C089E0",
       },
     },
   },

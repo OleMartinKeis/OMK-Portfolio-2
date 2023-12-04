@@ -9,7 +9,7 @@ function Home() {
         <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
           Ole Martin Keiseraas
         </h1>
-        <h2 className="text-3xl sm:text-4xl text-[#d0ade4]">
+        <h2 className="text-3xl sm:text-4xl text-pink">
           I am a Frontend Developer
         </h2>
         <p className="text-[#ccd6f6] py-4 max-w-[700px]">

@@ -40,10 +40,39 @@ function Navbar() {
         <li className="py-6 text-4xl">Contact</li>
       </ul>
       {/*Social Icons */}
-      <div className="flex fixed flex-col top-[35%] left-0">
+      <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
-          <li>
-            <a href="/">Linkedin</a>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-orange">
+            <a
+              href="/"
+              className="flex justify-between items-center w-full text-black"
+            >
+              Linkedin <FaLinkedin size={30} />
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#333333]">
+            <a
+              href="/"
+              className="flex justify-between items-center w-full text-white"
+            >
+              Github <FaGithub size={30} />
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#1C5A8D]">
+            <a
+              href="/"
+              className="flex justify-between items-center w-full text-white"
+            >
+              Email <HiOutlineMail size={30} />
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#C089E0]">
+            <a
+              href="/"
+              className="flex justify-between items-center w-full text-black"
+            >
+              Resume <BsFillPersonLinesFill size={30} />
+            </a>
           </li>
         </ul>
       </div>

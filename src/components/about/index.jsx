@@ -29,7 +29,7 @@ function About() {
                 </div>
                 <div className="mt-6">
                     <img
-                        src="/src/assets/me.jpeg"
+                        src="/src/assets/ole.jpg"
                         className="max-w-[250px] rounded-full border-2 border-orange shadow-2xl"
                         alt="picture of me"
                     />

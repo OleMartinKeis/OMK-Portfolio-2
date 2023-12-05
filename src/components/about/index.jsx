@@ -1,5 +1,5 @@
 import React from "react";
-import ole from "../../assets/tailwind.png";
+import ole from "../../assets/ole.jpg";
 
 function About() {
     return (

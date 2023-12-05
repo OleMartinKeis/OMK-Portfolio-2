@@ -1,7 +1,7 @@
 {
     "name": "omk-portfolio",
     "private": true,
-    "homepage": "https://olemartinkeis.github.io/OMK-Portfolio-2/",
+    "homepage": "/OMK-Portfolio-2/",
     "version": "0.0.0",
     "type": "module",
     "scripts": {

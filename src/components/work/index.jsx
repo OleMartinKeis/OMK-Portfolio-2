@@ -22,8 +22,9 @@ function Work() {
                         style={{ backgroundImage: `url(${VenueVista})` }}
                     >
                         <div className="opacity-0 group-hover:opacity-100">
-                            <span className="text-2xl font-bold text-white tracking-wider">
-                                React JS Application
+                            <span className="text-base font-bold text-white tracking-wider">
+                                React Application, using Tailwind to create a
+                                booking page for Hotels/Apartments
                             </span>
                             <div className="pt-8 text-center">
                                 <a href="https://omk-holidaze.netlify.app/">
@@ -44,8 +45,9 @@ function Work() {
                         style={{ backgroundImage: `url(${find})` }}
                     >
                         <div className="opacity-0 group-hover:opacity-100">
-                            <span className="text-2xl font-bold text-white tracking-wider">
-                                React JS Application
+                            <span className="text-base font-bold text-white tracking-wider">
+                                React Application, using Bootstrap to create a
+                                webpage inspired by finn.no
                             </span>
                             <div className="pt-8 text-center">
                                 <a href="https://imaginative-panda-b057eb.netlify.app/">
@@ -66,9 +68,11 @@ function Work() {
                         style={{ backgroundImage: `url(${AuctIT})` }}
                     >
                         <div className="opacity-0 group-hover:opacity-100">
-                            <span className="text-2xl font-bold text-white tracking-wider">
-                                React JS Application
+                            <span className="text-base font-bold text-white tracking-wider">
+                                React Application, using Bootstrap to create a
+                                webpage inspired by finn.no
                             </span>
+                            <span className="textlg font-bold text-white tracking-wider"></span>
                             <div className="pt-8 text-center">
                                 <a href="https://benevolent-wisp-36e8ad.netlify.app/">
                                     <button className="text-orange border-2 border-orange rounded-md px-4 py-3 m-2 text-center  hover:bg-orange hover:text-black duration-300">

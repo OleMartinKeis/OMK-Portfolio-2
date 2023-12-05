@@ -10,7 +10,9 @@ function Skills() {
     return (
         <div name="skills" className="bg-darkblue text-white">
             <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
-                <h2 className="text-4xl text-orange inline">Skills</h2>
+                <h2 className="text-4xl text-orange inline font-bold">
+                    Skills
+                </h2>
                 <p className="border-b-4 border-pink px-4 py-1">
                     These are the technologies I've worked with
                 </p>

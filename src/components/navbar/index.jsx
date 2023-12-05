@@ -11,7 +11,7 @@ function Navbar() {
     return (
         <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-darkblue text-white">
             <div>
-                <h1 className="z-11">OMK</h1>
+                <h1 className="z-11 text-2xl text-orange">OMK</h1>
             </div>
 
             <ul className="hidden md:flex">

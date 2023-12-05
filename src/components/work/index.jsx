@@ -22,8 +22,9 @@ function Work() {
                         style={{ backgroundImage: `url(${VenueVista})` }}
                     >
                         <div className="opacity-0 group-hover:opacity-100">
-                            <span className="text-2xl font-bold text-white tracking-wider">
-                                React JS Application
+                            <span className="text-base font-bold text-white tracking-wider">
+                                React JS Application, TailwindCSS where users
+                                can book holidays at user created venues
                             </span>
                             <div className="pt-8 text-center">
                                 <a href="https://omk-holidaze.netlify.app/">
@@ -44,8 +45,9 @@ function Work() {
                         style={{ backgroundImage: `url(${find})` }}
                     >
                         <div className="opacity-0 group-hover:opacity-100">
-                            <span className="text-2xl font-bold text-white tracking-wider">
-                                React JS Application
+                            <span className="text-base font-bold text-white tracking-wider">
+                                React JS Application, React Bootstrap page
+                                inspired by the Norwegian finn.no
                             </span>
                             <div className="pt-8 text-center">
                                 <a href="https://imaginative-panda-b057eb.netlify.app/">
@@ -66,8 +68,9 @@ function Work() {
                         style={{ backgroundImage: `url(${AuctIT})` }}
                     >
                         <div className="opacity-0 group-hover:opacity-100">
-                            <span className="text-2xl font-bold text-white tracking-wider">
-                                React JS Application
+                            <span className="text-base font-bold text-white tracking-wider">
+                                JS Application, Auction site where users can bid
+                                on items.
                             </span>
                             <div className="pt-8 text-center">
                                 <a href="https://benevolent-wisp-36e8ad.netlify.app/">

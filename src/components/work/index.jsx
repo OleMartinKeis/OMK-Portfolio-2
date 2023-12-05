@@ -26,12 +26,12 @@ function Work() {
                                 React JS Application
                             </span>
                             <div className="pt-8 text-center">
-                                <a href="/">
+                                <a href="https://omk-holidaze.netlify.app/">
                                     <button className="text-orange border-2 border-orange rounded-md px-4 py-3 m-2 text-center  hover:bg-orange hover:text-black duration-300">
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/OleMartinKeis/Ole-Martin-Keiseraas-PE2/">
                                     <button className="text-orange border-2 border-orange rounded-md px-4 py-3 m-2 text-center  hover:bg-orange hover:text-black duration-300">
                                         Code
                                     </button>
@@ -48,12 +48,12 @@ function Work() {
                                 React JS Application
                             </span>
                             <div className="pt-8 text-center">
-                                <a href="/">
+                                <a href="https://imaginative-panda-b057eb.netlify.app/">
                                     <button className="text-orange border-2 border-orange rounded-md px-4 py-3 m-2 text-center hover:bg-orange hover:text-black duration-300">
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/OleMartinKeis/Frontend-Frameworks-CA-Ole-Martin-Keiseraas">
                                     <button className="text-orange border-2 border-orange rounded-md px-4 py-3 m-2 text-center  hover:bg-orange hover:text-black duration-300">
                                         Code
                                     </button>
@@ -70,12 +70,12 @@ function Work() {
                                 React JS Application
                             </span>
                             <div className="pt-8 text-center">
-                                <a href="/">
+                                <a href="https://benevolent-wisp-36e8ad.netlify.app/">
                                     <button className="text-orange border-2 border-orange rounded-md px-4 py-3 m-2 text-center  hover:bg-orange hover:text-black duration-300">
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/OleMartinKeis/OMK-Semester-project-2">
                                     <button className="text-orange border-2 border-orange rounded-md px-4 py-3 m-2 text-center  hover:bg-orange hover:text-black duration-300">
                                         Code
                                     </button>

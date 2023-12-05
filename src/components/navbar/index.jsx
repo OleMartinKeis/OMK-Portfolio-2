@@ -110,12 +110,11 @@ function Navbar() {
                     </Link>
                 </li>
             </ul>
-            {/*Social Icons */}
             <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
                 <ul>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-orange">
                         <a
-                            href="/"
+                            href="https://www.linkedin.com/in/ole-martin-keiseraas-615a19152/"
                             className="flex justify-between items-center w-full text-black"
                         >
                             Linkedin <FaLinkedin size={30} />
@@ -123,19 +122,22 @@ function Navbar() {
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#333333]">
                         <a
-                            href="/"
+                            href="https://github.com/OleMartinKeis"
                             className="flex justify-between items-center w-full text-white"
                         >
                             Github <FaGithub size={30} />
                         </a>
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#1C5A8D]">
-                        <a
-                            href="/"
+                        <Link
+                            to="contact"
+                            smooth={true}
+                            offset={50}
+                            duration={500}
                             className="flex justify-between items-center w-full text-white"
                         >
                             Email <HiOutlineMail size={30} />
-                        </a>
+                        </Link>
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#C089E0]">
                         <a

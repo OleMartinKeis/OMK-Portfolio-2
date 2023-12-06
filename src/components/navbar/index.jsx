@@ -11,31 +11,31 @@ function Navbar() {
     return (
         <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-darkblue text-white">
             <div>
-                <h1 className="z-11">OMK</h1>
+                <h1 className="z-11 text-2xl text-orange">OMK</h1>
             </div>
 
             <ul className="hidden md:flex">
-                <li>
+                <li className="hover:text-pink hover:scale-110 duration-300">
                     <Link to="home" smooth={true} offset={50} duration={500}>
                         Home
                     </Link>
                 </li>
-                <li>
+                <li className="hover:text-pink hover:scale-110 duration-300">
                     <Link to="about" smooth={true} offset={50} duration={500}>
                         About
                     </Link>
                 </li>
-                <li>
+                <li className="hover:text-pink hover:scale-110 duration-300">
                     <Link to="skills" smooth={true} offset={50} duration={500}>
                         Skills
                     </Link>
                 </li>
-                <li>
+                <li className="hover:text-pink hover:scale-110 duration-300">
                     <Link to="work" smooth={true} offset={50} duration={500}>
                         Work
                     </Link>
                 </li>
-                <li>
+                <li className="hover:text-pink hover:scale-110 duration-300">
                     <Link to="contact" smooth={true} offset={50} duration={500}>
                         Contact
                     </Link>

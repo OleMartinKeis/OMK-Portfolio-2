@@ -21,7 +21,7 @@ function Work() {
                         className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto card-div"
                         style={{ backgroundImage: `url(${VenueVista})` }}
                     >
-                        <div className="opacity-0 group-hover:opacity-100">
+                        <div className="opacity-0 group-hover:opacity-100 duration-300">
                             <span className="text-base font-bold text-white tracking-wider">
                                 React JS Application, TailwindCSS where users
                                 can book holidays at user created venues
@@ -44,7 +44,7 @@ function Work() {
                         className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto card-div"
                         style={{ backgroundImage: `url(${find})` }}
                     >
-                        <div className="opacity-0 group-hover:opacity-100">
+                        <div className="opacity-0 group-hover:opacity-100 duration-300">
                             <span className="text-base font-bold text-white tracking-wider">
                                 React JS Application, React Bootstrap page
                                 inspired by the Norwegian finn.no
@@ -67,7 +67,7 @@ function Work() {
                         className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto card-div"
                         style={{ backgroundImage: `url(${AuctIT})` }}
                     >
-                        <div className="opacity-0 group-hover:opacity-100">
+                        <div className="opacity-0 group-hover:opacity-100  duration-300">
                             <span className="text-base font-bold text-white tracking-wider">
                                 JS Application, Auction site where users can bid
                                 on items.

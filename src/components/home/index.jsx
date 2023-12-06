@@ -1,7 +1,10 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 
 function Home() {
+    useEffect(() => {
+        document.title = "OMK - Portfolio";
+    }, []);
     return (
         <div name="home" className="w-full h-screen bg-darkblue">
             <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">

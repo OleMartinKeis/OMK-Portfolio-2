@@ -14,13 +14,13 @@ function About() {
                     <div></div>
                 </div>
                 <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8">
-                    <div className="sm:text-right text-4xl ">
+                    <div className="sm:text-right text-4xl mx-2 sm:mx-0">
                         <p>
                             Hi. I am Ole, nice to meet you. Please take a look
                             around
                         </p>
                     </div>
-                    <div>
+                    <div className="mx-2 sm:mx-0">
                         I started web-devleopment two years ago at Noroff School
                         of Technology, since then I have learned to love coding
                         and making websites that are responsive and accessible

@@ -23,8 +23,7 @@ function Work() {
                     >
                         <div className="opacity-0 group-hover:opacity-100 duration-300">
                             <span className="text-base font-bold text-white tracking-wider">
-                                React JS Application, TailwindCSS where users
-                                can book holidays at user created venues
+                                <p>VenueVista</p>
                             </span>
                             <div className="pt-8 text-center">
                                 <a href="https://omk-holidaze.netlify.app/">
@@ -46,8 +45,7 @@ function Work() {
                     >
                         <div className="opacity-0 group-hover:opacity-100 duration-300">
                             <span className="text-base font-bold text-white tracking-wider">
-                                React JS Application, React Bootstrap page
-                                inspired by the Norwegian finn.no
+                                <p>Find.no</p>
                             </span>
                             <div className="pt-8 text-center">
                                 <a href="https://imaginative-panda-b057eb.netlify.app/">
@@ -68,10 +66,7 @@ function Work() {
                         style={{ backgroundImage: `url(${AuctIT})` }}
                     >
                         <div className="opacity-0 group-hover:opacity-100  duration-300">
-                            <span className="text-base font-bold text-white tracking-wider">
-                                JS Application, Auction site where users can bid
-                                on items.
-                            </span>
+                            <span className="text-base font-bold text-white tracking-wider"></span>
                             <div className="pt-8 text-center">
                                 <a href="https://benevolent-wisp-36e8ad.netlify.app/">
                                     <button className="text-orange border-2 border-orange rounded-md px-4 py-3 m-2 text-center  hover:bg-orange hover:text-black duration-300">
@@ -85,6 +80,42 @@ function Work() {
                                 </a>
                             </div>
                         </div>
+                    </div>
+                    <div>
+                        <p className="text-xl font-bold md:hidden  text-orange">
+                            VenueVista
+                        </p>
+                        <p className="text-lg">
+                            React JS Application, TailwindCSS where users can
+                            book holidays at user created venues. Here you can
+                            create an account, log in, create venues and much
+                            more! Please take a look. Created using a public API
+                            from Noroff.
+                        </p>
+                    </div>
+                    <div>
+                        <p className="text-xl font-bold md:hidden text-orange">
+                            Find.no
+                        </p>
+                        <p className="text-lg">
+                            React JS Application, React Bootstrap page inspired
+                            by the Norwegian finn.no. Here you can create an
+                            account, log in, create items for sale and much
+                            more! Please take a look. Created using a public API
+                            from Noroff.
+                        </p>
+                    </div>
+                    <div>
+                        <p className="text-xl font-bold md:hidden text-orange">
+                            AuctIT
+                        </p>
+                        <p className="text-lg">
+                            JS Application, Auction site where users can bid on
+                            items. Built using Sass and Bootstrap. Here you can
+                            create an account, log in, create items to auction
+                            and bid on other users items and much more! Please
+                            take a look. Created using a public API from Noroff.
+                        </p>
                     </div>
                 </div>
             </div>

@@ -14,7 +14,7 @@ function Skills() {
                     Skills
                 </h2>
                 <p className="border-b-4 border-pink px-4 py-1">
-                    These are the technologies I've worked with
+                    These are some of the technologies I've worked with
                 </p>
             </div>
             <div className="w-11/12 mx-auto grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 text-center py-8">
